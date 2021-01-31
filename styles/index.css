@@ -31,17 +31,6 @@ p{
 #maps{
     height: 90vh;
 }
-@media only screen and (max-width: 1199.98px) {
-    #maps {
-        display: none;
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    #maps {
-        display: block;
-    }
-}
 .map-sidebar{
     background-color: #2d3439;
     height: 90vh;
